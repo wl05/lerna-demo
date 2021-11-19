@@ -1,7 +1,8 @@
-'use strict';
+"use strict";
 
 module.exports = window;
 
 function window() {
-    // TODO
+  // TODO
+  console.log("hello world");
 }
