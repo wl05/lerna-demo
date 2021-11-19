@@ -1,6 +1,6 @@
 {
   "name": "house",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "> TODO: description",
   "author": "antbaobao <2929712050@qq.com>",
   "homepage": "",
@@ -18,6 +18,6 @@
   },
   "dependencies": {
     "lodash": "^4.17.21",
-    "window": "^1.0.2"
+    "window": "^1.0.3"
   }
 }
